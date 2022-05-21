@@ -24,6 +24,8 @@ import Social from './components/Social/Social';
 
 function App() {
   return (
+    <div>
+      <SearchBar />
     <Router>
       <div className="App">
       <ul>
@@ -84,7 +86,7 @@ function App() {
       </Routes>
     
     </Router>
-
+    </div>
 
 
   );

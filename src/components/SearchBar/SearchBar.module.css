@@ -1,1 +1,8 @@
-.SearchBar {}
+.Search{    
+    background-color: black;
+
+}
+
+#outlined-search{
+    color:green;
+}
