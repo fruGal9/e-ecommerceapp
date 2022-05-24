@@ -25,10 +25,10 @@ import Social from './components/Social/Social';
 function App() {
   return (
     <div>
-      <SearchBar />
+      <Header className='header'></Header>
     <Router>
       <div className="App">
-      <ul>
+      <ul style={{visibility:'hidden'}}>
       <li>
         <Link to='/Filter'>Filter</Link>
       </li>
