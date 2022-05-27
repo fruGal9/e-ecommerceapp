@@ -22,6 +22,7 @@ import SearchBar from './components/SearchBar/SearchBar';
 import Social from './components/Social/Social';
 
 
+
 function App() {
   return (
     <div>
